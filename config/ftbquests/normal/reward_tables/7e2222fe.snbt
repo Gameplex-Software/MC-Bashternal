@@ -1,0 +1,52 @@
+{
+	title: "Basic",
+	loot_size: 27,
+	rewards: [{
+		item: "minecraft:log",
+		weight: 32
+	},
+	{
+		item: {
+			id: "minecraft:leather_helmet",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	},
+	{
+		item: {
+			id: "minecraft:leather_chestplate",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	},
+	{
+		item: {
+			id: "minecraft:leather_leggings",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	},
+	{
+		item: {
+			id: "minecraft:leather_boots",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	},
+	{
+		item: "minecraft:cooked_beef",
+		weight: 16
+	},
+	{
+		item: {
+			id: "minecraft:stone_sword",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	}]
+}

@@ -1,0 +1,43 @@
+{
+	x: -16.0d,
+	y: -11.5d,
+	dependencies: [
+		"7e4f6adb"
+	],
+	tasks: [{
+		uid: "6c87b3d8",
+		type: "item",
+		items: [{
+			id: "twilightforest:mazebreaker_pickaxe",
+			tag: {
+				ench: [{
+					lvl: 4s,
+					id: 32s
+				},
+				{
+					lvl: 3s,
+					id: 34s
+				},
+				{
+					lvl: 2s,
+					id: 35s
+				}]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c73c0e61",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	},
+	{
+		uid: "66a4b4a5",
+		type: "loot",
+		table: 1
+	}]
+}

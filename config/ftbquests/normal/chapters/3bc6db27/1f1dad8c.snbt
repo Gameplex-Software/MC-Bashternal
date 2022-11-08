@@ -1,0 +1,28 @@
+{
+	title: "§6Infinity Drill [Legendary]",
+	x: -3.5d,
+	y: -7.0d,
+	dependencies: [
+		"b6d54587"
+	],
+	optional: true,
+	tasks: [{
+		uid: "7c08a8e9",
+		type: "item",
+		items: [{
+			id: "industrialforegoing:infinity_drill",
+			tag: {
+				Selected: "LEGENDARY"
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_nbt: 2b
+	}],
+	rewards: [{
+		uid: "60f11687",
+		type: "ftbmoney:money",
+		ftb_money: 50000L
+	}]
+}

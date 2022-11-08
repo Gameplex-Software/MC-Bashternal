@@ -1,0 +1,869 @@
+{
+    "minecraft": {
+        "": {}
+    },
+    "mcp": {
+        "": {}
+    },
+    "FML": {
+        "": {}
+    },
+    "forge": {
+        "": {}
+    },
+    "advancedrocketrycore": {
+        "": {}
+    },
+    "ColorUtility": {
+        "": {}
+    },
+    "creativecoredummy": {
+        "": {}
+    },
+    "ivtoolkit": {
+        "": {}
+    },
+    "littletilescore": {
+        "": {}
+    },
+    "openmodscore": {
+        "": {}
+    },
+    "foamfixcore": {
+        "": {}
+    },
+    "opencomputers|core": {
+        "": {}
+    },
+    "randompatches": {
+        "": {}
+    },
+    "tweakersconstruct": {
+        "": {}
+    },
+    "fastbench": {
+        "": {}
+    },
+    "actuallyadditions": {
+        "": {}
+    },
+    "forgeendertech": {
+        "": {}
+    },
+    "adlods": {
+        "": {}
+    },
+    "redstoneflux": {
+        "": {}
+    },
+    "cofhcore": {
+        "": {}
+    },
+    "libvulpes": {
+        "": {}
+    },
+    "advancedrocketry": {
+        "": {}
+    },
+    "ctm": {
+        "": {}
+    },
+    "appliedenergistics2": {
+        "": {}
+    },
+    "bdlib": {
+        "": {}
+    },
+    "ae2stuff": {
+        "": {}
+    },
+    "baubles": {
+        "": {}
+    },
+    "roots": {
+        "": {}
+    },
+    "mysticalworld": {
+        "": {}
+    },
+    "endercore": {
+        "": {}
+    },
+    "crafttweaker": {
+        "": {}
+    },
+    "mtlib": {
+        "": {}
+    },
+    "modtweaker": {
+        "": {}
+    },
+    "jei": {
+        "": {}
+    },
+    "codechickenlib": {
+        "": {}
+    },
+    "cofhworld": {
+        "": {}
+    },
+    "thermalfoundation": {
+        "": {}
+    },
+    "thermalexpansion": {
+        "": {}
+    },
+    "enderio": {
+        "": {}
+    },
+    "mantle": {
+        "": {}
+    },
+    "chisel": {
+        "": {}
+    },
+    "enderiointegrationtic": {
+        "": {}
+    },
+    "tombstone": {
+        "": {}
+    },
+    "quark": {
+        "": {}
+    },
+    "twilightforest": {
+        "": {}
+    },
+    "tconstruct": {
+        "": {}
+    },
+    "p455w0rdslib": {
+        "": {}
+    },
+    "ae2wtlib": {
+        "": {}
+    },
+    "infinitylib": {
+        "": {}
+    },
+    "agricraft": {
+        "": {}
+    },
+    "aiimprovements": {
+        "": {}
+    },
+    "akashictome": {
+        "": {}
+    },
+    "applecore": {
+        "": {}
+    },
+    "appleskin": {
+        "": {}
+    },
+    "architecturecraft": {
+        "": {}
+    },
+    "conarm": {
+        "": {}
+    },
+    "armoryexpansion": {
+        "": {}
+    },
+    "armoryexpansion-custommaterials": {
+        "": {}
+    },
+    "llibrary": {
+        "": {}
+    },
+    "iceandfire": {
+        "": {}
+    },
+    "armoryexpansion-iceandfire": {
+        "": {}
+    },
+    "armoryexpansion-matteroverdrive": {
+        "": {}
+    },
+    "aroma1997core": {
+        "": {}
+    },
+    "aromabackup": {
+        "": {}
+    },
+    "aromabackuprecovery": {
+        "": {}
+    },
+    "artifacts": {
+        "": {}
+    },
+    "astralsorcery": {
+        "": {}
+    },
+    "attributefix": {
+        "": {}
+    },
+    "atum": {
+        "": {}
+    },
+    "mdecore": {
+        "": {}
+    },
+    "autooredictconv": {
+        "": {}
+    },
+    "autoreglib": {
+        "": {}
+    },
+    "badwithernocookiereloaded": {
+        "": {}
+    },
+    "battletowers": {
+        "": {}
+    },
+    "betterbuilderswands": {
+        "": {}
+    },
+    "botania": {
+        "": {}
+    },
+    "mowziesmobs": {
+        "": {}
+    },
+    "patchouli": {
+        "": {}
+    },
+    "bewitchment": {
+        "": {}
+    },
+    "bibliocraft": {
+        "": {}
+    },
+    "biomesoplenty": {
+        "": {}
+    },
+    "biomestaff": {
+        "": {}
+    },
+    "guideapi": {
+        "": {}
+    },
+    "bloodmagic": {
+        "": {}
+    },
+    "bookshelf": {
+        "": {}
+    },
+    "brokenwings": {
+        "": {}
+    },
+    "buildinggadgets": {
+        "": {}
+    },
+    "reborncore": {
+        "": {}
+    },
+    "techreborn": {
+        "": {}
+    },
+    "forestry": {
+        "": {}
+    },
+    "careerbees": {
+        "": {}
+    },
+    "chameleon": {
+        "": {}
+    },
+    "champions": {
+        "": {}
+    },
+    "chancecubes": {
+        "": {}
+    },
+    "charm": {
+        "": {}
+    },
+    "chiselsandbits": {
+        "": {}
+    },
+    "chunkpregenerator": {
+        "": {}
+    },
+    "cleanview": {
+        "": {}
+    },
+    "clumps": {
+        "": {}
+    },
+    "cyclopscore": {
+        "": {}
+    },
+    "commoncapabilities": {
+        "": {}
+    },
+    "controlling": {
+        "": {}
+    },
+    "cookingforblockheads": {
+        "": {}
+    },
+    "cosmeticarmorreworked": {
+        "": {}
+    },
+    "craftingtweaks": {
+        "": {}
+    },
+    "craftstudioapi": {
+        "": {}
+    },
+    "ctgui": {
+        "": {}
+    },
+    "crafttweakerjei": {
+        "": {}
+    },
+    "creativecore": {
+        "": {}
+    },
+    "cucumber": {
+        "": {}
+    },
+    "culinaryconstruct": {
+        "": {}
+    },
+    "customizeddungeonloot": {
+        "": {}
+    },
+    "custommainmenu": {
+        "": {}
+    },
+    "waila": {
+        "": {}
+    },
+    "stg": {
+        "": {}
+    },
+    "mousetweaks": {
+        "": {}
+    },
+    "danknull": {
+        "": {}
+    },
+    "darknesslib": {
+        "": {}
+    },
+    "dimdoors": {
+        "": {}
+    },
+    "ding": {
+        "": {}
+    },
+    "doggytalents": {
+        "": {}
+    },
+    "dungeontactics": {
+        "": {}
+    },
+    "ebwizardry": {
+        "": {}
+    },
+    "mclib": {
+        "": {}
+    },
+    "emoticons": {
+        "": {}
+    },
+    "enchdesc": {
+        "": {}
+    },
+    "enderiobase": {
+        "": {}
+    },
+    "enderioconduits": {
+        "": {}
+    },
+    "enderioconduitsappliedenergistics": {
+        "": {}
+    },
+    "opencomputers": {
+        "": {}
+    },
+    "enderioconduitsopencomputers": {
+        "": {}
+    },
+    "enderioconduitsrefinedstorage": {
+        "": {}
+    },
+    "enderiointegrationforestry": {
+        "": {}
+    },
+    "enderiointegrationticlate": {
+        "": {}
+    },
+    "enderioinvpanel": {
+        "": {}
+    },
+    "ftblib": {
+        "": {}
+    },
+    "enderiomachines": {
+        "": {}
+    },
+    "enderiopowertools": {
+        "": {}
+    },
+    "mcmultipart": {
+        "": {}
+    },
+    "mekanism": {
+        "": {}
+    },
+    "gasconduits": {
+        "": {}
+    },
+    "enderstorage": {
+        "": {}
+    },
+    "erebus": {
+        "": {}
+    },
+    "extracells": {
+        "": {}
+    },
+    "extrautils2": {
+        "": {}
+    },
+    "farmingforblockheads": {
+        "": {}
+    },
+    "mod_lavacow": {
+        "": {}
+    },
+    "sonarcore": {
+        "": {}
+    },
+    "fluxnetworks": {
+        "": {}
+    },
+    "foamfix": {
+        "": {}
+    },
+    "forgelin": {
+        "": {}
+    },
+    "forgemultipartcbe": {
+        "": {}
+    },
+    "microblockcbe": {
+        "": {}
+    },
+    "minecraftmultipartcbe": {
+        "": {}
+    },
+    "from_the_depths": {
+        "": {}
+    },
+    "ftbutilities": {
+        "": {}
+    },
+    "itemfilters": {
+        "": {}
+    },
+    "reskillable": {
+        "": {}
+    },
+    "ftbquests": {
+        "": {}
+    },
+    "ftbmoney": {
+        "": {}
+    },
+    "futuremc": {
+        "": {}
+    },
+    "gottschcore": {
+        "": {}
+    },
+    "grue": {
+        "": {}
+    },
+    "gunpowderlib": {
+        "": {}
+    },
+    "hardcoredarkness": {
+        "": {}
+    },
+    "icbmclassic": {
+        "": {}
+    },
+    "immersiveengineering": {
+        "": {}
+    },
+    "immersivecables": {
+        "": {}
+    },
+    "immersivepetroleum": {
+        "": {}
+    },
+    "improvedbackpacks": {
+        "": {}
+    },
+    "incontrol": {
+        "": {}
+    },
+    "teslacorelib": {
+        "": {}
+    },
+    "industrialforegoing": {
+        "": {}
+    },
+    "instantunify": {
+        "": {}
+    },
+    "mysticalagriculture": {
+        "": {}
+    },
+    "mysticalagradditions": {
+        "": {}
+    },
+    "nuclearcraft": {
+        "": {}
+    },
+    "harvestcraft": {
+        "": {}
+    },
+    "randomthings": {
+        "": {}
+    },
+    "mcjtylib_ng": {
+        "": {}
+    },
+    "rftools": {
+        "": {}
+    },
+    "integrationforegoing": {
+        "": {}
+    },
+    "inventorypets": {
+        "": {}
+    },
+    "inventorytweaks": {
+        "": {}
+    },
+    "itlt": {
+        "": {}
+    },
+    "jaopca": {
+        "": {}
+    },
+    "oredictinit": {
+        "": {}
+    },
+    "journeymap": {
+        "": {}
+    },
+    "jehc": {
+        "": {}
+    },
+    "jee": {
+        "": {}
+    },
+    "jeresources": {
+        "": {}
+    },
+    "laggoggles": {
+        "": {}
+    },
+    "letsencryptcraft": {
+        "": {}
+    },
+    "levelup2": {
+        "": {}
+    },
+    "literally_drugs": {
+        "": {}
+    },
+    "littletiles": {
+        "": {}
+    },
+    "lodsofemone": {
+        "": {}
+    },
+    "login_shield": {
+        "": {}
+    },
+    "lootcapacitortooltips": {
+        "": {}
+    },
+    "timecore": {
+        "": {}
+    },
+    "lootgames": {
+        "": {}
+    },
+    "lunatriuscore": {
+        "": {}
+    },
+    "immersivetech": {
+        "": {}
+    },
+    "mekanismgenerators": {
+        "": {}
+    },
+    "mekanismtools": {
+        "": {}
+    },
+    "menumobs": {
+        "": {}
+    },
+    "mtrm": {
+        "": {}
+    },
+    "moartinkers": {
+        "": {}
+    },
+    "mob_grinding_utils": {
+        "": {}
+    },
+    "numina": {
+        "": {}
+    },
+    "powersuits": {
+        "": {}
+    },
+    "moreoverlays": {
+        "": {}
+    },
+    "morpheus": {
+        "": {}
+    },
+    "mputils": {
+        "": {}
+    },
+    "mystcraft": {
+        "": {}
+    },
+    "naturesaura": {
+        "": {}
+    },
+    "naturescompass": {
+        "": {}
+    },
+    "netherportalfix": {
+        "": {}
+    },
+    "recipehandler": {
+        "": {}
+    },
+    "norecipebook": {
+        "": {}
+    },
+    "neid": {
+        "": {}
+    },
+    "oldjava": {
+        "": {}
+    },
+    "omlib": {
+        "": {}
+    },
+    "openmods": {
+        "": {}
+    },
+    "openblocks": {
+        "": {}
+    },
+    "openmodularturrets": {
+        "": {}
+    },
+    "oreexcavation": {
+        "": {}
+    },
+    "overpoweredarmorbar": {
+        "": {}
+    },
+    "pamscookables": {
+        "": {}
+    },
+    "placebo": {
+        "": {}
+    },
+    "thermaldynamics": {
+        "": {}
+    },
+    "simplyjetpacks": {
+        "": {}
+    },
+    "plustic": {
+        "": {}
+    },
+    "quarkoddities": {
+        "": {}
+    },
+    "rats": {
+        "": {}
+    },
+    "reccomplex": {
+        "": {}
+    },
+    "resourceloader": {
+        "": {}
+    },
+    "rftoolsdim": {
+        "": {}
+    },
+    "scannable": {
+        "": {}
+    },
+    "shadowmc": {
+        "": {}
+    },
+    "storagedrawers": {
+        "": {}
+    },
+    "storagedrawersextra": {
+        "": {}
+    },
+    "stupidthings": {
+        "": {}
+    },
+    "taiga": {
+        "": {}
+    },
+    "tfspellpack": {
+        "": {}
+    },
+    "beneath": {
+        "": {}
+    },
+    "theaurorian": {
+        "": {}
+    },
+    "thermalinnovation": {
+        "": {}
+    },
+    "tinkersjei": {
+        "": {}
+    },
+    "tinkertoolleveling": {
+        "": {}
+    },
+    "tips": {
+        "": {}
+    },
+    "totemic": {
+        "": {}
+    },
+    "toughnessbar": {
+        "": {}
+    },
+    "treasure2": {
+        "": {}
+    },
+    "treasure2_twilight_forest_lp": {
+        "": {}
+    },
+    "treasure2_wizardry_lp": {
+        "": {}
+    },
+    "vampiresneedumbrellas": {
+        "": {}
+    },
+    "vampirism": {
+        "": {}
+    },
+    "teamlapen-lib": {
+        "": {}
+    },
+    "vampirism_integrations": {
+        "": {}
+    },
+    "vanillafix": {
+        "": {}
+    },
+    "gvc": {
+        "": {}
+    },
+    "wailaharvestability": {
+        "": {}
+    },
+    "wanionlib": {
+        "": {}
+    },
+    "waystones": {
+        "": {}
+    },
+    "wings": {
+        "": {}
+    },
+    "mowzies_wings": {
+        "": {}
+    },
+    "bauble_wings": {
+        "": {}
+    },
+    "wct": {
+        "": {}
+    },
+    "wgblockreplacer": {
+        "": {}
+    },
+    "wrcbe": {
+        "": {}
+    },
+    "xnet": {
+        "": {}
+    },
+    "ynot": {
+        "": {}
+    },
+    "zerocore": {
+        "": {}
+    },
+    "rf-capability-adapter": {
+        "": {}
+    },
+    "structurize": {
+        "": {}
+    },
+    "minecolonies": {
+        "": {}
+    },
+    "orelib": {
+        "": {}
+    },
+    "phosphor-lighting": {
+        "": {}
+    },
+    "reauth": {
+        "": {}
+    },
+    "solcarrot": {
+        "": {}
+    },
+    "techreborn_compat": {
+        "": {}
+    },
+    "armoryexpansion-conarm": {
+        "": {}
+    },
+    "mysticallib": {
+        "": {}
+    },
+    "teslacorelib_registries": {
+        "": {}
+    },
+    "tweakersconstructpostload": {
+        "": {}
+    },
+    "unidict": {
+        "": {}
+    },
+    "wrapup": {
+        "": {}
+    },
+    "": {
+        "": {}
+    }
+}

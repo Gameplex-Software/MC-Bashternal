@@ -1,0 +1,82 @@
+[
+  {
+    "dimension": 1000,
+    "block": [
+      "rats:marbled_cheese_raw"
+    ],
+    "mobs": [
+      {
+        "mob": "iceandfire:dread_lich",
+        "weight": 1,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      },
+	  {
+        "mob": "iceandfire:dread_knight",
+        "weight": 3,
+        "groupcountmin": 1,
+        "groupcountmax": 2
+      },
+	  {
+        "mob": "iceandfire:dread_ghoul",
+        "weight": 4,
+        "groupcountmin": 3,
+        "groupcountmax": 4
+      },
+	  { 
+        "mob": "iceandfire:dread_thrall",
+        "weight": 10,
+        "groupcountmin": 3,
+        "groupcountmax": 9
+      },
+	  {
+        "mob": "iceandfire:dread_scuttler",
+        "weight": 1,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      },
+	  {
+        "mob": "iceandfire:dread_beast",
+        "weight": 8,
+        "groupcountmin": 3,
+        "groupcountmax": 5
+      }
+    ]
+  },
+  {
+    "dimension": 69,
+	"mobs": [
+      {
+        "mob": "roots:deer",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      },
+	  {
+        "mob": "roots:sprout",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      },
+	  {
+        "mob": "minecraft:endermite",
+        "weight": 4,
+        "groupcountmin": 1,
+        "groupcountmax": 2
+      },
+	  {
+        "mob": "primitivemobs:grovesprite",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      },
+	  {
+        "mob": "minecraft:slime",
+        "weight": 3,
+        "groupcountmin": 1,
+        "groupcountmax": 2
+      }
+    ],
+	"minheight": 100
+  }
+]

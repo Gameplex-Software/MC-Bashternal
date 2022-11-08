@@ -1,0 +1,61 @@
+{
+	title: "Basic Automated Mob Farm",
+	icon: "iceandfire:dread_key",
+	x: -9.45d,
+	y: -9.45d,
+	shape: "hexagon",
+	description: "&cIt was a graveyard smash!",
+	hide_dependency_lines: true,
+	dependencies: [
+		"5eed1197",
+		"3b41a4ca"
+	],
+	size: 0.9d,
+	tasks: [{
+		uid: "edf10fd6",
+		type: "item",
+		items: [{
+			item: "minecraft:rotten_flesh"
+		}],
+		count: 8L
+	},
+	{
+		uid: "125f4ed1",
+		type: "item",
+		title: "Any boneWithered",
+		items: [{
+			id: "itemfilters:filter",
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "boneWithered"
+				}
+			}
+		}]
+	},
+	{
+		uid: "d59abaf4",
+		type: "item",
+		items: [{
+			item: "rats:raw_rat"
+		}]
+	},
+	{
+		uid: "ecdef806",
+		type: "item",
+		items: [{
+			item: "minecraft:string"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "51bebcaa",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	},
+	{
+		uid: "df484c6e",
+		type: "loot",
+		table: 1
+	}]
+}

@@ -1,0 +1,45 @@
+{
+	x: 5.0d,
+	y: 0.5d,
+	shape: "octagon",
+	dependencies: [
+		"56e86e9c"
+	],
+	tasks: [{
+		uid: "4be2df81",
+		type: "item",
+		items: [{
+			id: "ebwizardry:master_healing_wand",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b711925e",
+		type: "item",
+		item: {
+			id: "ebwizardry:ring_paladin",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	},
+	{
+		uid: "18876281",
+		type: "item",
+		item: {
+			id: "ebwizardry:amulet_transience",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	},
+	{
+		uid: "98dc05e2",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

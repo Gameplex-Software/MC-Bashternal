@@ -1,0 +1,1035 @@
+{
+	title: "&5Extraterrestrial Cache",
+	icon: "extrautils2:ingredients 1 5",
+	loot_size: 1,
+	rewards: [{
+		item: "twilightforest:moonworm",
+		weight: 16
+	},
+	{
+		item: "rats:marbled_cheese_raw",
+		count: 64,
+		weight: 16
+	},
+	{
+		item: "rats:string_cheese",
+		count: 32,
+		random_bonus: 32,
+		weight: 16
+	},
+	{
+		item: {
+			id: "mod_lavacow:undertaker_shovel",
+			tag: {
+				ench: [{
+					lvl: 8,
+					id: 0
+				}],
+				Unbreakable: 1,
+				display: {
+					Lore: [
+						"§8Everybody Knows The Moon's Made of Cheese",
+						"§e(Part of the Moon set)"
+					],
+					Name: "§6§lHaunted Moon Shovel"
+				},
+				AttributeModifiers: [{
+					UUIDMost: 99,
+					UUIDLeast: 193185800,
+					Amount: 40,
+					Slot: "mainhand",
+					AttributeName: "generic.attackDamage",
+					Operation: 0,
+					Name: "Sorrow"
+				}]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	},
+	{
+		item: {
+			id: "dungeontactics:golden_knife",
+			tag: {
+				display: {
+					Lore: [
+						"§8Rusted and uncomfortable to hold, unlikely to last very long",
+						"§e(Part of the Moon set)"
+					],
+					Name: "§7Ratlantean Dagger"
+				},
+				AttributeModifiers: [{
+					UUIDMost: 99,
+					UUIDLeast: 193291300,
+					Amount: 30,
+					Slot: "mainhand",
+					AttributeName: "generic.attackDamage",
+					Operation: 0,
+					Name: "generic.attackDamage"
+				}]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		weight: 16
+	},
+	{
+		item: {
+			id: "twilightforest:glass_sword",
+			tag: {
+				ench: [{
+					lvl: 8,
+					id: 21
+				},
+				{
+					lvl: 19,
+					id: 16
+				},
+				{
+					lvl: 8,
+					id: 22
+				}],
+				Unbreakable: 1,
+				display: {
+					Lore: [
+						"§8§k232!§r§l§8It yearns to be returned to its home planet§8§k3242",
+						"§l§e(Rare Moon Artifact)"
+					],
+					Name: "§9Frozen Blade §rof the §4Unholy Prince"
+				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	},
+	{
+		item: {
+			id: "dungeontactics:pirate_hook",
+			tag: {
+				display: {
+					Lore: [
+						"§8Rusted and uncomfortable to hold, unlikely to last very long (aaarrg)",
+						"§e(Part of the Moon set)"
+					],
+					Name: "§7Pirat Hook"
+				},
+				AttributeModifiers: [{
+					UUIDMost: 99,
+					UUIDLeast: 193141800,
+					Amount: 40,
+					Slot: "mainhand",
+					AttributeName: "generic.attackDamage",
+					Operation: 0,
+					Name: "generic.attackDamage"
+				}]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		weight: 16
+	},
+	{
+		item: {
+			id: "rats:pirat_cutlass",
+			tag: {
+				display: {
+					Lore: [
+						"§8Made completely out of 100% cheese sourced locally from the Moon.",
+						"§e(Part of the Moon set)"
+					],
+					Name: "§7Cheese Blade"
+				},
+				AttributeModifiers: [{
+					UUIDMost: 99,
+					UUIDLeast: 193352200,
+					Amount: 50,
+					Slot: "mainhand",
+					AttributeName: "generic.attackDamage",
+					Operation: 0,
+					Name: "generic.attackDamage"
+				}]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		weight: 16
+	},
+	{
+		item: {
+			id: "rats:plague_doctor_mask",
+			tag: {
+				display: {
+					Lore: [
+						"§8In my dream, I was drowning my sorrows",
+						"§8But my sorrows they'd learned to swim",
+						"§e(Part of the Moon set)"
+					],
+					Name: "§7Mask of Sorrows"
+				},
+				AttributeModifiers: [{
+					UUIDMost: 99,
+					UUIDLeast: 193542900,
+					Amount: 9,
+					Slot: "head",
+					AttributeName: "generic.armorToughness",
+					Operation: 0,
+					Name: "Sorrow"
+				},
+				{
+					UUIDMost: 99,
+					UUIDLeast: 193543000,
+					Amount: 15,
+					Slot: "head",
+					AttributeName: "generic.armor",
+					Operation: 0,
+					Name: "Sorrow"
+				}]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	},
+	{
+		item: {
+			id: "minecraft:writable_book",
+			tag: {
+				pages: [
+					"�cSoon�k------------------�cIntersteller travel�k-------------------�cThe universeIs mine...�k-------------------",
+					"Ticket for oneTo the home planet of the UndeadBeautiful around this time of the yearPlease check tripadvisor for advice and tips for survival",
+					"�m�l7/7/2020"
+				],
+				RepairCost: 0,
+				display: {
+					Name: "�6Economy Ticket to Primordium"
+				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	},
+	{
+		item: "rats:chunky_cheese_token",
+		weight: 9
+	},
+	{
+		item: "rats:rat_upgrade_ratinator",
+		weight: 9
+	},
+	{
+		item: "advancedrocketry:aliensapling",
+		weight: 9
+	},
+	{
+		item: "advancedrocketry:rocketmotor",
+		weight: 8
+	},
+	{
+		item: "advancedrocketry:electricmushroom",
+		weight: 12
+	},
+	{
+		item: {
+			id: "advancedrocketry:spacehelmet",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		weight: 14
+	},
+	{
+		item: {
+			id: "advancedrocketry:spacechestplate",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		weight: 9
+	},
+	{
+		item: {
+			id: "advancedrocketry:spaceleggings",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		weight: 9
+	},
+	{
+		item: {
+			id: "advancedrocketry:spaceboots",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		weight: 9
+	},
+	{
+		item: {
+			id: "advancedrocketry:basiclasergun",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		weight: 8
+	},
+	{
+		item: {
+			id: "advancedrocketry:hovercraft",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	},
+	{
+		item: "advancedrocketry:satelliteprimaryfunction 1 1",
+		weight: 9
+	},
+	{
+		item: {
+			id: "advancedrocketry:pressuretank",
+			Damage: 1s,
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		weight: 12
+	},
+	{
+		item: {
+			id: "advancedrocketry:itemupgrade",
+			Damage: 2s,
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		weight: 9
+	},
+	{
+		item: "advancedrocketry:thermite",
+		weight: 9
+	},
+	{
+		item: {
+			id: "advancedrocketry:jackhammer",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		weight: 9
+	},
+	{
+		item: "advancedrocketry:satelliteprimaryfunction",
+		weight: 9
+	},
+	{
+		item: "advancedrocketry:vitrifiedsand",
+		weight: 12
+	},
+	{
+		item: "advancedrocketry:moonturf",
+		weight: 12
+	},
+	{
+		item: "advancedrocketry:moonturf_dark",
+		weight: 12
+	},
+	{
+		item: "advancedrocketry:hotturf",
+		weight: 12
+	},
+	{
+		item: "advancedrocketry:sawblade"
+	},
+	{
+		item: "advancedrocketry:microwavereciever",
+		weight: 9
+	},
+	{
+		item: "advancedrocketry:satelliteprimaryfunction 1 4",
+		weight: 12
+	},
+	{
+		item: "advancedrocketry:thermitetorch",
+		count: 16,
+		weight: 12
+	},
+	{
+		item: "advancedrocketry:loader 1 3",
+		weight: 12
+	},
+	{
+		item: "advancedrocketry:circlelight",
+		weight: 9
+	},
+	{
+		item: "advancedrocketry:jetpack",
+		weight: 9
+	},
+	{
+		item: "advancedrocketry:crystal",
+		weight: 12
+	},
+	{
+		item: "advancedrocketry:crystal 1 1"
+	},
+	{
+		item: "advancedrocketry:crystal 1 2",
+		weight: 12
+	},
+	{
+		item: "advancedrocketry:crystal 1 3",
+		weight: 12
+	},
+	{
+		item: "advancedrocketry:stationmarker",
+		weight: 9
+	},
+	{
+		item: "advancedrocketry:gravitycontroller",
+		weight: 9
+	},
+	{
+		item: {
+			id: "advancedrocketry:sealdetector",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		weight: 9
+	},
+	{
+		item: "advancedrocketry:crystal 1 5",
+		weight: 9
+	},
+	{
+		item: {
+			id: "advancedrocketry:bucketrocketfuel",
+			tag: {
+				Fluid: {
+					FluidName: "rocketfuel",
+					Amount: 1000
+				}
+			}
+		},
+		weight: 9
+	},
+	{
+		item: "advancedrocketry:chemicalreactor",
+		weight: 9
+	},
+	{
+		item: "advancedrocketry:geode",
+		weight: 12
+	},
+	{
+		item: {
+			id: "minecraft:written_book",
+			tag: {
+				pages: [
+					"{\"text\":\"Ground Control to Major Tom\\nGround Control to Major Tom\\nTake your protein pills and put your helmet on\\nGround Control to Major Tom (ten, nine, eight, seven, six)\"}",
+					"{\"text\":\"Commencing countdown, engines on (five, four, three)\\nCheck ignition and may God\\u0027s love be with you (two, one, liftoff)\\n\\nThis is Ground Control to Major Tom\\nYou\\u0027ve really made the grade\\nAnd the papers want to know whose shirts you wear\"}",
+					"{\"text\":\"Now it\\u0027s time to leave the capsule if you dare\\n\\\"This is Major Tom to Ground Control\\nI\\u0027m stepping through the door\\nAnd I\\u0027m floating in a most peculiar way\\n\\nAnd the stars look very different today\\nFor here\"}",
+					"{\"text\":\"Am I sitting in a tin can\\nFar above the world\\nPlanet Earth is blue\\nAnd there\\u0027s nothing I can do\\n\\nThough I\\u0027m past one hundred thousand miles\\nI\\u0027m feeling very still\\n\\nAnd I think my spaceship knows which way to go\"}",
+					"{\"text\":\"Tell my wife I love her very much she knows\\nGround Control to Major Tom\\nYour circuit\\u0027s dead, there\\u0027s something wrong\\n\\nCan you hear me, Major Tom?\\nCan you hear me, Major Tom?\\nCan you hear me, Major Tom?\"}",
+					"{\"text\":\"Can you \\\"Here am I floating \\u0027round my tin can\\nFar above the moon\\n\\n\\n\\n\\nPlanet Earth is blue\\nAnd there\\u0027s nothing I can do\\\"\"}"
+				],
+				author: "adam98991",
+				title: "Journey To Space",
+				resolved: 1
+			}
+		},
+		weight: 7
+	},
+	{
+		item: {
+			id: "minecraft:written_book",
+			tag: {
+				pages: [
+					"{\"text\":\"Didn\\u0027t know what time it was and the lights were low\\nI leaned back on my radio\\nSome cat was layin\\u0027 down some get it on rock \\u0027n\\u0027 roll, he said\\nThen the loud sound did seem to fade \"}",
+					"{\"text\":\"Came back like a slow voice on a wave of phase haze\\nThat weren\\u0027t no D.J. that was hazy cosmic jive\\nThere\\u0027s a starman waiting in the sky\\nHe\\u0027d like to come and meet us\\nBut he thinks he\\u0027d blow our minds\"}",
+					"{\"text\":\"There\\u0027s a starman waiting in the sky\\nHe\\u0027s told us not to blow it\\nCause he knows it\\u0027s all worthwhile\\nHe told me:\\nLet the children lose it\\nLet the children use it\\nLet all the children boogie\"}",
+					"{\"text\":\"I had to phone someone so I picked on you\\nHey, that\\u0027s far out so you heard him too\\nSwitch on the TV we may pick him up on channel two\\n\\nLook out your window I can see his light\\nIf we can sparkle he may land tonight\"}",
+					"{\"text\":\"Don\\u0027t tell your poppa or he\\u0027ll get us locked up in fright\\nThere\\u0027s a starman waiting in the sky\\nHe\\u0027d like to come and meet us\\nBut he thinks he\\u0027d blow our minds\\n\\nThere\\u0027s a starman waiting in the sky\\nHe\\u0027s told us not to blow it\"}",
+					"{\"text\":\"Cause he knows it\\u0027s all worthwhile\\nHe told me:\\nLet the children lose it\\nLet the children use it\\nLet all the children boogie\\n\\nThere\\u0027s a starman waiting in the sky\\nHe\\u0027d like to come and meet us\\nBut he thinks he\\u0027d blow our minds\"}",
+					"{\"text\":\"There\\u0027s a starman waiting in the sky\\nHe\\u0027s told us not to blow it\\nCause he knows it\\u0027s all worthwhile\\nHe told me:\\n\\nLet the children lose it\\nLet the children use it\\nLet all the children boogie\"}"
+				],
+				author: "adam98991",
+				title: "Space Journal",
+				resolved: 1
+			}
+		},
+		weight: 7
+	},
+	{
+		item: {
+			id: "twilightforest:giant_sword",
+			tag: {
+				ench: [{
+					lvl: 8,
+					id: 25
+				},
+				{
+					lvl: 19,
+					id: 16
+				},
+				{
+					lvl: 8,
+					id: 23
+				}],
+				Unbreakable: 1,
+				display: {
+					Lore: [
+						"§8§r§lAncient Tarnished Blade",
+						"§l§e(Rare Moon Artifact)"
+					],
+					Name: "§3Giant's Bane"
+				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	},
+	{
+		item: {
+			id: "iceandfire:dragonbone_sword",
+			tag: {
+				ench: [{
+					lvl: 13,
+					id: 16
+				},
+				{
+					lvl: 19,
+					id: 19
+				},
+				{
+					lvl: 8,
+					id: 39
+				}],
+				Unbreakable: 1,
+				display: {
+					Lore: [
+						"§r§lTriple Compressed Cheese",
+						"§l§e(Rare Moon Artifact)"
+					],
+					Name: "§6§lMoon King"
+				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	},
+	{
+		item: {
+			id: "iceandfire:dread_queen_sword",
+			tag: {
+				display: {
+					Lore: [
+						"§bBlue§r§8 in the darkness",
+						"§7Like a §asickly §bdiamond"
+					],
+					Name: "§r§lBlade of the Dreaded Queen"
+				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	},
+	{
+		item: {
+			id: "dungeontactics:high_striker",
+			tag: {
+				ench: [{
+					lvl: 20,
+					id: 0
+				},
+				{
+					lvl: 7,
+					id: 16
+				},
+				{
+					lvl: 16,
+					id: 17
+				}],
+				display: {
+					Lore: [
+						"§8From a faraway land where the dead stay awake and the living are most unwelcome",
+						"§e(Rare Extraterrestrial Artifact)"
+					],
+					Name: "§7Hammer of the Undying"
+				},
+				AttributeModifiers: [{
+					UUIDMost: 99,
+					UUIDLeast: 193260200,
+					Amount: 144,
+					Slot: "mainhand",
+					AttributeName: "generic.attackDamage",
+					Operation: 0,
+					Name: "generic.attackDamage"
+				},
+				{
+					UUIDMost: 99,
+					UUIDLeast: 193260300,
+					Amount: 5,
+					Slot: "mainhand",
+					AttributeName: "generic.armorToughness",
+					Operation: 0,
+					Name: "generic.armorToughness"
+				},
+				{
+					UUIDMost: 99,
+					UUIDLeast: 193260400,
+					Amount: 5,
+					Slot: "mainhand",
+					AttributeName: "generic.maxHealth",
+					Operation: 0,
+					Name: "generic.maxHealth"
+				}]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	},
+	{
+		item: {
+			id: "iceandfire:armor_silver_metal_helmet",
+			tag: {
+				ench: [{
+					lvl: 10,
+					id: 0
+				}],
+				Unbreakable: 1,
+				display: {
+					Lore: [
+						"§aThree things are certain in life: death, taxes, and opening a bad chancecube",
+						"§e(Rare Moon Artifact)",
+						"Grants Bonuses in Offhand, Mainhand, and Helmet slots"
+					],
+					Name: "§9God-King's Grace, Breath of Life"
+				},
+				AttributeModifiers: [{
+					UUIDMost: 99,
+					UUIDLeast: 193404700,
+					Amount: 25,
+					Slot: "mainhand",
+					AttributeName: "generic.armor",
+					Operation: 0,
+					Name: "generic.armor"
+				},
+				{
+					UUIDMost: 99,
+					UUIDLeast: 193404700,
+					Amount: 25,
+					Slot: "offhand",
+					AttributeName: "generic.armor",
+					Operation: 0,
+					Name: "generic.armor"
+				},
+				{
+					UUIDMost: 99,
+					UUIDLeast: 193404700,
+					Amount: 25,
+					Slot: "head",
+					AttributeName: "generic.armor",
+					Operation: 0,
+					Name: "generic.armor"
+				}]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	},
+	{
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				RepairCost: 0,
+				display: {
+					Name: "§dExtraterrestrial Cache"
+				},
+				type: "extraterrestrial_cache"
+			}
+		},
+		weight: 9
+	},
+	{
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				RepairCost: 0,
+				display: {
+					Name: "§dExtraterrestrial Cache"
+				},
+				type: "extraterrestrial_cache"
+			}
+		},
+		count: 3,
+		weight: 3
+	},
+	{
+		item: "minecraft:nether_star",
+		weight: 3
+	},
+	{
+		item: "chisel:gold 1 11",
+		weight: 11
+	},
+	{
+		item: "chisel:iron 1 11",
+		weight: 11
+	},
+	{
+		item: "advancedrocketry:spacestation",
+		weight: 12
+	},
+	{
+		item: "advancedrocketry:spaceelevatorcontroller",
+		weight: 9
+	},
+	{
+		item: "advancedrocketry:stationbuilder",
+		weight: 9
+	},
+	{
+		item: "rats:compressed_rat",
+		weight: 12
+	},
+	{
+		item: {
+			id: "iceandfire:hippogryph_sword",
+			tag: {
+				ench: [{
+					lvl: 2,
+					id: 20
+				},
+				{
+					lvl: 1,
+					id: 70
+				},
+				{
+					lvl: 8,
+					id: 0
+				}],
+				display: {
+					Lore: [
+						"§8Hide from the darkness, the dead do not feel fear.",
+						"§e(Part of the Primordium set)"
+					],
+					Name: "§cNightfallen"
+				},
+				AttributeModifiers: [{
+					UUIDMost: 99,
+					UUIDLeast: 193195900,
+					Amount: 45,
+					Slot: "mainhand",
+					AttributeName: "generic.attackDamage",
+					Operation: 0,
+					Name: "Sorrow"
+				}]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	},
+	{
+		item: "erebus:stag_heart_cooked",
+		weight: 9
+	},
+	{
+		item: "erebus:stag_heart_raw",
+		weight: 9
+	},
+	{
+		item: {
+			id: "erebus:rhino_exoskeleton_chestplate",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		weight: 9
+	},
+	{
+		item: {
+			id: "erebus:rhino_exoskeleton_helmet",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		weight: 9
+	},
+	{
+		item: {
+			id: "erebus:max_speed_bow",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		weight: 9
+	},
+	{
+		item: {
+			id: "erebus:web_slinger_wither",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		weight: 9
+	},
+	{
+		item: {
+			id: "erebus:wand_of_preservation",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		weight: 9
+	},
+	{
+		item: "erebus:door_petrified_wood",
+		weight: 9
+	},
+	{
+		item: "erebus:crop_cabbage",
+		weight: 9
+	},
+	{
+		item: {
+			id: "erebus:mushroom_helmet",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		weight: 9
+	},
+	{
+		item: "erebus:spray_can",
+		weight: 9
+	},
+	{
+		item: {
+			id: "erebus:glider_chestplate",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		weight: 9
+	},
+	{
+		item: {
+			id: "erebus:horn_of_summoning",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		weight: 9
+	},
+	{
+		item: {
+			id: "erebus:war_hammer",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		weight: 9
+	},
+	{
+		item: {
+			id: "erebus:enhanced_scorpion_pincer",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		weight: 9
+	},
+	{
+		item: {
+			id: "theaurorian:absorptionorb",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		weight: 9
+	},
+	{
+		item: {
+			id: "theaurorian:aurorianitesword",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		weight: 9
+	},
+	{
+		item: {
+			id: "theaurorian:ceruleanchestplate",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		weight: 9
+	},
+	{
+		item: {
+			id: "theaurorian:aurorianstonesword",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		weight: 9
+	},
+	{
+		item: "theaurorian:ceruleanarrow",
+		count: 16,
+		weight: 9
+	},
+	{
+		item: "theaurorian:aurorianporkcooked",
+		count: 16,
+		weight: 9
+	},
+	{
+		item: {
+			id: "theaurorian:umbrashield",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		weight: 9
+	},
+	{
+		item: "theaurorian:stickyspiker",
+		count: 16,
+		weight: 9
+	},
+	{
+		item: {
+			id: "theaurorian:livingdiviningrod",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		weight: 9
+	},
+	{
+		item: {
+			id: "theaurorian:locator",
+			tag: {},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		weight: 9
+	},
+	{
+		item: {
+			id: "theaurorian:moonstoneaxe",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		weight: 9
+	},
+	{
+		item: {
+			id: "atum:dagger_poison",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		weight: 9
+	},
+	{
+		item: {
+			id: "atum:ptahs_decadence",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		weight: 9
+	},
+	{
+		item: {
+			id: "atum:anubiss_wrath",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		weight: 9
+	},
+	{
+		item: {
+			id: "atum:ptahs_undoing",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		weight: 9
+	},
+	{
+		item: {
+			id: "atum:anputs_hunger",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		weight: 9
+	},
+	{
+		item: {
+			id: "atum:horuss_soaring",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		weight: 9
+	},
+	{
+		item: {
+			id: "atum:halo_of_ra",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		weight: 9
+	},
+	{
+		item: {
+			id: "atum:gebs_might",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		weight: 9
+	},
+	{
+		item: {
+			id: "atum:montus_blast",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		weight: 9
+	}],
+	loot_crate: {
+		string_id: "extraterrestrial_cache",
+		color: 15193,
+		glow: true,
+		drops: {
+			passive: 0,
+			monster: 0,
+			boss: 0
+		}
+	}
+}

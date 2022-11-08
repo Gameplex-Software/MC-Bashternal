@@ -1,0 +1,125 @@
+{
+	title: "Master Spell Book",
+	loot_size: 1,
+	rewards: [{
+		item: "ebwizardry:spell_book 1 109"
+	},
+	{
+		item: "ebwizardry:spell_book 1 140"
+	},
+	{
+		item: "ebwizardry:spell_book 1 210"
+	},
+	{
+		item: "ebwizardry:spell_book 1 105"
+	},
+	{
+		item: "ebwizardry:spell_book 1 107"
+	},
+	{
+		item: "ebwizardry:spell_book 1 180"
+	},
+	{
+		item: "ebwizardry:spell_book 1 108"
+	},
+	{
+		item: "ebwizardry:spell_book 1 99"
+	},
+	{
+		item: {
+			id: "ebwizardry:charm_flight",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	},
+	{
+		item: {
+			id: "ebwizardry:charm_growth",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	},
+	{
+		item: {
+			id: "ebwizardry:charm_feeding",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	},
+	{
+		item: {
+			id: "ebwizardry:charm_stop_time",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	},
+	{
+		item: {
+			id: "ebwizardry:charm_minion_health",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	},
+	{
+		item: {
+			id: "ebwizardry:ring_interdiction",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	},
+	{
+		item: {
+			id: "ebwizardry:ring_hammer",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	},
+	{
+		item: {
+			id: "ebwizardry:ring_combustion",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	},
+	{
+		item: {
+			id: "ebwizardry:ring_mind_control",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	},
+	{
+		item: {
+			id: "ebwizardry:ring_arcane_frost",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	},
+	{
+		item: {
+			id: "ebwizardry:ring_seeking",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	}],
+	loot_crate: {
+		string_id: "master_spell_book",
+		color: 8388736,
+		drops: {
+			passive: 0,
+			monster: 0,
+			boss: 0
+		}
+	}
+}

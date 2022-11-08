@@ -1,0 +1,31 @@
+{
+	x: -9.5d,
+	y: -3.0d,
+	description: "Lumberjack",
+	can_repeat: true,
+	tasks: [{
+		uid: "1b4a8cf9",
+		type: "item",
+		title: "64x Wood Log",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any logWood"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "logWood"
+				}
+			}
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "7a6256bd",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

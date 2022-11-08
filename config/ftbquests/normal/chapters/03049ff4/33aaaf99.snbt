@@ -1,0 +1,41 @@
+{
+	x: -2.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "b5de83ba",
+		type: "stat",
+		icon: "minecraft:fish",
+		stat: "stat.fishCaught",
+		value: 500
+	}],
+	rewards: [{
+		uid: "891da324",
+		type: "item",
+		item: "tconstruct:materials 1 50"
+	},
+	{
+		uid: "6a0eb912",
+		type: "item",
+		item: {
+			id: "mysticalagriculture:supremium_fishing_rod",
+			tag: {
+				display: {
+					Name: "Nat Pagle's Extreme Angler FC-5000"
+				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	},
+	{
+		uid: "67f74a89",
+		type: "item",
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "unclaimed_black_market_container"
+			}
+		}
+	}]
+}
